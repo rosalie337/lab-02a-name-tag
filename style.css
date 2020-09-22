@@ -38,9 +38,11 @@ section {
     height: 150px;
     background-color: white;
     color: blue;
+    font-size: 1.75em;
     font-family: cursive;
     display: flex;
     justify-content: center;
     align-items: center;
+
 
 }
