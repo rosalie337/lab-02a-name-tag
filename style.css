@@ -21,6 +21,7 @@ main {
     border-radius: 7%;
 
 }
+
 p {
     margin: 0;
 }
@@ -30,10 +31,11 @@ p.hello {
     font-weight: bolder;
     text-transform: uppercase;
 }
+
 p.my-name-is {
     font-size: 1.5 em;
-    line-height: ;
 }
+
 section {
     height: 150px;
     background-color: white;
@@ -43,6 +45,4 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-
-
 }
